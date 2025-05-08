@@ -12,7 +12,7 @@ I'm a **Software Developer** passionate about crafting clean, well-structured co
   - **Web Development**, especially **MERN**, **MEAN** stacks, and **Django**
   - **UI/UX Design** and creating intuitive user interfaces
 - 🎨 Amateur artist. I enjoy sketching in my free time! 
-  🖌️ Check out my art on [Instagram](https://www.instagram.com/n.o.u.r_mostafa)
+  - 🖌️ Check out my art on [Instagram](https://www.instagram.com/n.o.u.r_mostafa)
 
 ---
 
