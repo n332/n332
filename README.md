@@ -1,15 +1,63 @@
-# Hi there 👋, I'm Nour Mostafa
-<!--
-**n332/n332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Nour!
 
-Here are some ideas to get you started:
+I'm a **Software Developer** passionate about crafting clean, well-structured code that embraces **design patterns** and **SOLID principles**. I enjoy building scalable systems and exploring cutting-edge technologies across multiple domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Currently working as a Software Developer at **Ejada**
+- 💡 Passionate about:
+  - Writing clean, maintainable code that follows best practices
+  - **AI technologies** like NLP, Computer Vision, and Machine Learning
+  - **Web Development**, especially **MERN**, **MEAN** stacks, and **Django**
+  - **UI/UX Design** and creating intuitive user interfaces
+- 🎨 Drawing enthusiast — I enjoy sketching in my free time
+
+---
+
+## 🛠️ Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-000000?style=flat&logo=servicenow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📂 Projects
+
+- 🔗 [MERN Social App](https://github.com/n332/mern-social)  
+  A full-stack MERN-based social networking application with user authentication and real-time features.
+
+- 🔗 [Twitter Clone](https://github.com/Carbowix/twitter-clone)  
+  A Twitter-like app showcasing core social media functionalities using modern web technologies.
+
+- 🔗 [Sports Classification](https://github.com/n332/SportsClassification)  
+  A machine learning project that classifies sports actions using computer vision techniques.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n332&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n332&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour%20Mostafa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-mostafa-3b512620a/)
+
+---
+
+Thanks for stopping by! 👋
+
