@@ -11,7 +11,7 @@ I'm a **Software Developer** passionate about crafting clean, well-structured co
   - **AI technologies** like NLP, Computer Vision, and Machine Learning
   - **Web Development**, especially **MERN**, **MEAN** stacks, and **Django**
   - **UI/UX Design** and creating intuitive user interfaces
-- 🎨 Drawing enthusiast — I enjoy sketching in my free time  
+- 🎨 Drawing amateur — I enjoy sketching in my free time  
   🖌️ Check out my art on [Instagram](https://www.instagram.com/n.o.u.r_mostafa)
 
 ---
