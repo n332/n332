@@ -2,28 +2,6 @@
 
 I'm a **Software Developer** passionate about crafting clean, well-structured code that embraces **design patterns** and **SOLID principles**. I enjoy building scalable systems and exploring cutting-edge technologies across multiple domains.
 
----
-
-## 🚀 About Me
-
-- 👨‍💻 Currently working as a Software Developer at **Ejada**
-- 💡 Passionate about:
-  - Writing clean, maintainable code that follows best practices
-  - **AI technologies** like NLP, Computer Vision, and Machine Learning
-  - **Web Development**, especially **MERN**, **MEAN** stacks, and **Django**
-  - **UI/UX Design** and creating intuitive user interfaces
-- 🎨 Drawing enthusiast — I enjoy sketching in my free time  
-  🖌️ Check out my art on [Instagram](https://www.instagram.com/n.o.u.r_mostafa)
-
----
-
-## 🛠️ Languages & Tools
-
-# 👋 Hello, I'm Nour!
-
-I'm a **Software Developer** passionate about crafting clean, well-structured code that embraces **design patterns** and **SOLID principles**. I enjoy building scalable systems and exploring cutting-edge technologies across multiple domains.
-
----
 
 ## 🚀 About Me
 
