@@ -67,34 +67,6 @@ I'm a **Software Developer** passionate about crafting clean, well-structured co
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour%20Mostafa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https)
-
-
-
----
-
-## 📂 Projects
-
-- 🔗 [MERN Social App](https://github.com/n332/mern-social)  
-  A full-stack MERN-based social networking application with user authentication and real-time features.
-
-- 🔗 [Twitter Clone](https://github.com/Carbowix/twitter-clone)  
-  A Twitter-like app showcasing core social media functionalities using modern web technologies.
-
-- 🔗 [Sports Classification](https://github.com/n332/SportsClassification)  
-  A machine learning project that classifies sports actions using computer vision techniques.
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n332&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n332&layout=compact&theme=radical)
-
----
-
-## 📫 Contact Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour%20Mostafa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-mostafa-3b512620a/)
 [![Gmail](https://img.shields.io/badge/nm5819984@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nm5819984@gmail.com)
 
