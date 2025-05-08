@@ -57,6 +57,7 @@ I'm a **Software Developer** passionate about crafting clean, well-structured co
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nour%20Mostafa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nour-mostafa-3b512620a/)
+[![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nm5819984@gmail.com)
 
 ---
 
