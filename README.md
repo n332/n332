@@ -48,13 +48,13 @@ I'm a **Software Developer** passionate about crafting clean, well-structured co
 ## 📂 Projects
 
 - 🔗 [MERN Social App](https://github.com/n332/mern-social)  
-  A full-stack MERN-based social networking application with user authentication and real-time features.
+  A full-stack MERN-based social networking application .
 
 - 🔗 [Twitter Clone](https://github.com/Carbowix/twitter-clone)  
-  A Twitter-like app showcasing core social media functionalities using modern web technologies.
+  A Twitter-like app showcasing core social media functionalities.
 
 - 🔗 [Sports Classification](https://github.com/n332/SportsClassification)  
-  A machine learning project that classifies sports actions using computer vision techniques.
+    A deep learning project that classifies sports actions using computer vision techniques.
 
 ---
 
